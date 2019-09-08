@@ -1,0 +1,8 @@
+md5: 11cb3aac310b216d7f0a41296fec6636
+wdir: .
+outs:
+- md5: a51e9d9492d856ab0a805122d6e0fadf.dir
+  path: artifacts
+  cache: true
+  metric: false
+  persist: false
